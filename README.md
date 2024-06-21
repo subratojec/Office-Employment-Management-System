@@ -14,7 +14,7 @@ Archive inactive employees (soft delete) for record-keeping.
 Filter employees by name, department, or role.
 Search for employees by name (first or last).
 
-  <h1>Technologies Used:</h1>h1>
+  <h1>Technologies Used:</h1>
 Web- Development: HTML, CSS, JS
 Programming Language: Python
 Web Framework: Django 
